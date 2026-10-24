@@ -1,0 +1,44 @@
+enum AISV_Temperament
+{
+	FRIENDLY,
+	NEUTRAL,
+	HOSTILE,
+	BANDIT
+}
+
+enum AISV_Activity
+{
+	NONE,
+	REST,
+	BUILD,
+	LOOT,
+	HUNT,
+	RAID,
+	RETURN,
+	DEFEND
+}
+
+enum AISV_TribeState
+{
+	ACTIVE,
+	VIRTUAL,
+	WIPED
+}
+
+enum AISV_StructureKind
+{
+	FIREPLACE,
+	CONTAINER,
+	TENT,
+	FLAG,
+	FENCE,
+	WATCHTOWER
+}
+
+enum AISV_TripPhase
+{
+	NONE,
+	BOARDING,
+	DRIVING,
+	LEAVING
+}

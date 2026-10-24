@@ -1,0 +1,9 @@
+name = "A.I. Survivors";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "Player-like AI survivor groups (built on DayZ Expansion AI)";
+overview = "Groups of 3-5 AI survivors settle the map, build real bases, loot towns and military, hunt, drive cars, raid players and defend their base to the death.";
+author = "AISurvivors";
+version = "1.0.2";
